@@ -1,4 +1,4 @@
-# -ON-E-OFF-CHALLENGE---KARTHIK-S---23BCE1260
+# -ON(E)-OFF-CHALLENGE---KARTHIK-S---23BCE1260
 # 💀 Malware.exe — The Malware That Gives Up
 
 > **A malware simulator with one major vulnerability: it has self-preservation instincts.**
